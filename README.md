@@ -40,5 +40,5 @@ Please cite the following papers if you use this repository in your research wor
 ```
 
 ```
-Contact **Bing Li**[:envelope:](mailto:bing.li@unsw.edu.au) for questions, comments and reporting bugs.
+Contact **Bing Li** [:envelope:](mailto:zhangleuestc@gmail.com) for questions, comments and reporting bugs.
  
