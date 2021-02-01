@@ -8,6 +8,8 @@ Two-Stream Convolution Augmented Transformer for Human Activity Recognition
 
 AAAI, 2021.
 
+As illustrated in the following figure, THAT utilizes a two-stream structure to capture both time-over-channel and channel-over-time features, and use the multi-scale convolution augmented transformer to capture range-based patterns.
+
 <div align=center><img src="https://github.com/windofshadow/THAT/blob/main/Architecture.jpg"  /></div>
 
 ## Requirements
