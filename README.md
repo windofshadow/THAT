@@ -5,6 +5,7 @@ This repository contains the Pytorch implementation of the THAT methods in the f
 Two-Stream Convolution Augmented Transformer for Human Activity Recognition
 
 [*Bing Li*](https://windofshadow.github.io/), Wei Cui, Wei Wang, [*Le Zhang*](https://zhangleuestc.github.io/), [*Zhenghua Chen*](https://zhenghuantu.github.io/) and [*Min Wu*](https://sites.google.com/site/wumincf/)
+
 AAAI, 2021.
 
 <div align=center><img src="https://github.com/windofshadow/THAT/blob/main/Architecture.jpg"  /></div>
