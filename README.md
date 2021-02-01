@@ -14,7 +14,7 @@ As illustrated in the following figure, THAT utilizes a two-stream structure to 
 
 ## Requirements
 - [python 3.7](We recommend to use Anaconda, since many python libs like numpy and sklearn are needed in our code.)
-- [PyTorch ](https://pytorch.org/) (we run the code under version 0.4.0, maybe versions >=1.0 also work.)  
+- [PyTorch 1.4.0](https://pytorch.org/) (we run the code under version 1.4.0, maybe versions >=1.0 also work.)  
 
 ## Dataset Downloads
 Please Download the [data](https://github.com/ermongroup/Wifi_Activity_Recognition) and pre-process it as done in our paper.
